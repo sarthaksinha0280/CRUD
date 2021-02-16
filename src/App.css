@@ -1,0 +1,90 @@
+body{
+  background-color: rgb(58, 248, 248);
+}
+
+.App {
+  text-align: center;
+}
+
+.form{
+  margin-left: 430px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: yellow;
+  width: 500px;
+  height: 500px;
+}
+
+
+.form input{
+  width: 300px;
+  height:60px;
+  margin: 10px;
+  border-width: 3px;
+  font-size: 25px;
+  border-radius: 30px;
+}
+label{
+  font-size:30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.button{
+  font-size:22px;
+  border-radius: 15px;
+  color: yellow;
+  background-color: black;
+}
+
+.card{
+  background-color: rgb(171, 241, 30);
+  width:500px;
+  height:200px;
+  border: 2px solid black;
+  border-radius: 15px; 
+  margin-left: 450px;
+  margin-top: 20px;
+  color: rgb(76, 0, 255);
+}
+
+.card h6{
+  color: rgb(93, 95, 97)
+}
+ 
+
+.input{
+  width:100px;
+  height: 30px;
+  margin-left: 150px;
+}
+
+#updateInput{
+  width: 100px;
+  height: 30px;
+  margin-left: 150px;
+  margin-top: 2px;
+}
+
+#delete{
+    text-align: left;
+    margin-left: 10px;
+    width: 100px;
+}
+
+.update{
+  text-align: right;
+  width: 100px;
+  margin-left:380px;
+  margin-top: 0px;
+  margin-bottom:10px;
+}
+
+
+h1{
+font-size: 50px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
